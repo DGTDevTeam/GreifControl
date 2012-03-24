@@ -1,0 +1,5 @@
+    name: GreifControl
+    main: me.JamieSinn.Bukkit.GreifControl
+    version: 0.7
+    description: >
+                 Stops Greif by stopping placement of blocks
